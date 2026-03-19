@@ -5,7 +5,7 @@
 <h1 align="center">Sam Mousavi</h1>
 
 <p align="center">
-  Chemical Engineering PhD Researcher at Aalto University
+  Chemical Engineering | Scientific Computing | Process Modelling
 </p>
 
 <p align="center">
@@ -31,9 +31,9 @@
 
 ## Profile
 
-PhD researcher in Chemical Engineering based in Espoo, Finland, with research centered on multiphase flow, liquid-liquid extraction, emulsion separation, and process modelling. The work combines CFD, population balance modelling, Aspen-based process simulation, and scientific programming to develop practical engineering tools for complex fluid systems.
+Chemical engineering research and engineering work centered on multiphase flow, liquid-liquid extraction, emulsion separation, and process modelling. The work combines CFD, population balance modelling, Aspen-based process simulation, and scientific programming to develop practical engineering tools for complex fluid systems.
 
-Background spans academic research, engineering modelling, and software development, with day-to-day work in OpenFOAM, Python, Matlab, C++, Aspen Plus, and Aspen Custom Modeler. GitHub is used to publish OpenFOAM developments, simulation case studies, and reproducible computational workflows.
+Background spans academic research, engineering modelling, and software development, with extensive use of OpenFOAM, Python, Matlab, C++, Aspen Plus, and Aspen Custom Modeler. GitHub is used to publish OpenFOAM developments, simulation case studies, and reproducible computational workflows.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SamMousaviES&show_icons=true&hide_border=false&bg_color=0D1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&rank_icon=github" alt="GitHub stats" />
@@ -63,7 +63,7 @@ Background spans academic research, engineering modelling, and software developm
 ## Publications and Research
 
 - Author of 7 peer-reviewed publications across chemical engineering, CFD, porous media, and machine-learning-assisted reservoir optimization
-- Current doctoral work focuses on liquid-liquid extraction, droplet population balance modelling, surfactant-influenced separation systems, and validation against experimental and pilot data
+- Research includes liquid-liquid extraction, droplet population balance modelling, surfactant-influenced separation systems, and validation against experimental and pilot data
 - Interested in translating research models into practical, well-documented computational tools for engineering use
 
 ## Technical Stack
